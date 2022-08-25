@@ -253,6 +253,8 @@ import Chart from 'chart.js/auto';
 
 // importation de la librairie charts.js permettant de créer des graph
 
+// l'utilisation de cette librairie va permettre de changer les données d'un graphique très facilement 
+
 export default {
   name: 'HelloWorld',
   props: {
