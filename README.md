@@ -1,4 +1,8 @@
-# chart
+git clone <repository_url>
+
+## Go to project
+
+cd <project_name>
 
 ## Project setup
 ```
